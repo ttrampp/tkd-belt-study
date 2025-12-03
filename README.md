@@ -1,30 +1,37 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+TKD Belt Study is a practical tool which helps in the required memorization of Taekwondo form names and meanings for testing.
+TKD Belt Study allows users to view a list of Taekwondo Belts.
+When the user taps on any one of the belts, they are taken to a second page.
+The second page shows the belt information, including the name and meaning associated with that belt.
+Here the user has the opportunity to read and memorize the names and meanings, 
+then choose a study level of either Easy, Medium, or Hard.
+With each level, the amount of words in the meaning become hidden to the user, until all words can be hidden.
+This is to allow the user to practice memorization of each name and meaning for Rank Testing.
 
-{Provide a description of your app.  Describe how to use the app.}
-
-{Describe your purpose for creating this app.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
+My purpose for creating this project was to strengthen my mobile development skills.
+Additionally, I wanted to learn how to structure a Flutter project and familiarize myself with Dart.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the app}
+*** Tools ***
+-- Flutter SDK
+-- Android Studio
+-- Android Emulator for device testing
+-- Git for version control
 
-{Describe the programming language that you used and any libraries.}
+** Languages **
+-- Dart
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Flutter Documentation](https://docs.flutter.dev/)
+* [Dart Lanuage](https://dart.dev/language)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add an audio file of verbal step-by-step instructions on belt form steps.
+* Add links to video demonstrations of each form.
+* Add a quiz with user input with scoring.
